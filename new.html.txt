@@ -1,7 +1,7 @@
 <html>
 	<Head><title>My 1st project</title></head>
 <body>
-<h1>Hello Worlds11 world from conflict branch</h1>
+<h1>Hello Worlds11 Change form master branch</h1>
 <h1>Hello Worlds12</h1>
 <h1>Hello Worlds13</h1>
 <h1>Hello Worlds14</h1>
